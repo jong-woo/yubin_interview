@@ -2,3 +2,7 @@
    Configuration
 ====================
 JAVA : jdk-1.7.0_79 (jdk-7u79-windows-x64)
+Android
+ - J : 5.1.1(API 22) / 4.3 (API 17)
+ - S : 5.1.1(API 22)
+ - Y : 4.4.2(API 19)
